@@ -7,8 +7,8 @@ This project came about by my annoyance at creating custom tailored resumes for 
 ## Tech Stack
 Made with 🪲 using [T3 Stack](https://create.t3.gg/)
 
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
+- [⏩ Next.js](https://nextjs.org)
+- [🛡️ NextAuth.js](https://next-auth.js.org)
+- [🔺 Prisma](https://prisma.io)
+- [🌬️ Tailwind CSS](https://tailwindcss.com)
+- [📦 tRPC](https://trpc.io)
